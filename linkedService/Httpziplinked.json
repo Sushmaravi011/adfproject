@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://github.com",
+			"url": "https://github.com/Sushmaravi011/zipfile/blob/main/100-Sales-Records.zip",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
