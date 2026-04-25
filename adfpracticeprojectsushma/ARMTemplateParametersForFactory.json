@@ -8,7 +8,13 @@
 		"sinkdatalake_accountKey": {
 			"value": ""
 		},
+		"sourcedatalakep2_accountKey": {
+			"value": ""
+		},
 		"sinkdatalake_properties_typeProperties_url": {
+			"value": "https://saadfpractice.dfs.core.windows.net/"
+		},
+		"sourcedatalakep2_properties_typeProperties_url": {
 			"value": "https://saadfpractice.dfs.core.windows.net/"
 		},
 		"sourcerest_ls_properties_typeProperties_url": {

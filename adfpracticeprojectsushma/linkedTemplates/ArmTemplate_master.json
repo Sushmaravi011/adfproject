@@ -11,7 +11,15 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'accountKey' of 'sinkdatalake'"
 		},
+		"sourcedatalakep2_accountKey": {
+			"type": "secureString",
+			"metadata": "Secure string for 'accountKey' of 'sourcedatalakep2'"
+		},
 		"sinkdatalake_properties_typeProperties_url": {
+			"type": "string",
+			"defaultValue": "https://saadfpractice.dfs.core.windows.net/"
+		},
+		"sourcedatalakep2_properties_typeProperties_url": {
 			"type": "string",
 			"defaultValue": "https://saadfpractice.dfs.core.windows.net/"
 		},
@@ -49,8 +57,14 @@
 					"sinkdatalake_accountKey": {
 						"value": "[parameters('sinkdatalake_accountKey')]"
 					},
+					"sourcedatalakep2_accountKey": {
+						"value": "[parameters('sourcedatalakep2_accountKey')]"
+					},
 					"sinkdatalake_properties_typeProperties_url": {
 						"value": "[parameters('sinkdatalake_properties_typeProperties_url')]"
+					},
+					"sourcedatalakep2_properties_typeProperties_url": {
+						"value": "[parameters('sourcedatalakep2_properties_typeProperties_url')]"
 					},
 					"sourcerest_ls_properties_typeProperties_url": {
 						"value": "[parameters('sourcerest_ls_properties_typeProperties_url')]"
