@@ -1,0 +1,12 @@
+{
+	"name": "sourceRest",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "sourcerest_ls",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "RestResource",
+		"schema": []
+	}
+}

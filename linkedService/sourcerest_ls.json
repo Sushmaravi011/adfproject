@@ -1,0 +1,12 @@
+{
+	"name": "sourcerest_ls",
+	"properties": {
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://fakestoreapi.com/carts?utm_source=chatgpt.com",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
