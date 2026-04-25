@@ -1,0 +1,52 @@
+[
+    {
+        "sourcepath": "Sushmaravi011/retailETLproject/blob/main/E-Commerce%20Dataset/customers.csv",
+        "dest_folder_name": "customers",
+        "dest_file_name": "customers.csv"
+    },
+    {
+        "sourcepath": "Sushmaravi011/retailETLproject/blob/main/E-Commerce%20Dataset/products.csv",
+        "dest_folder_name": "products",
+        "dest_file_name": "products.csv"
+    },
+    {
+        "sourcepath": "Sushmaravi011/retailETLproject/blob/main/E-Commerce%20Dataset/orders.csv",
+        "dest_folder_name": "orders",
+        "dest_file_name": "orders.csv"
+    },
+    {
+        "sourcepath": "Sushmaravi011/retailETLproject/blob/main/E-Commerce%20Dataset/order_items.csv",
+        "dest_folder_name": "order_items",
+        "dest_file_name": "order_items.csv"
+    },
+    {
+        "sourcepath": "Sushmaravi011/retailETLproject/blob/main/E-Commerce%20Dataset/refunds.csv",
+        "dest_folder_name": "refunds",
+        "dest_file_name": "refunds.csv"
+    },
+    {
+        "sourcepath": "Sushmaravi011/retailETLproject/blob/main/E-Commerce%20Dataset/cart_events.csv",
+        "dest_folder_name": "cart_events",
+        "dest_file_name": "cart_events.csv"
+    },
+    {
+        "sourcepath": "Sushmaravi011/retailETLproject/blob/main/E-Commerce%20Dataset//sessions.csv",
+        "dest_folder_name": "sessions",
+        "dest_file_name": "sessions.csv"
+    },
+    {
+        "sourcepath": "Sushmaravi011/retailETLproject/blob/main/E-Commerce%20Dataset//reviews.csv",
+        "dest_folder_name": "reviews",
+        "dest_file_name": "reviews.csv"
+    },
+    {
+        "sourcepath": "Sushmaravi011/retailETLproject/blob/main/E-Commerce%20Dataset/inventory_events.csv",
+        "dest_folder_name": "inventory_events",
+        "dest_file_name": "inventory_events.csv"
+    },
+    {
+        "sourcepath": "Sushmaravi011/retailETLproject/blob/main/E-Commerce%20Dataset/promotions.csv",
+        "dest_folder_name": "promotions",
+        "dest_file_name": "promotions.csv"
+    }
+]
